@@ -1,5 +1,5 @@
 {
-  "name": "TaturevichBlog",
+  "name": "TaturevichBlog_UI",
   "version": "0.0.0",
   "dependencies": {
     "@types/history": {
