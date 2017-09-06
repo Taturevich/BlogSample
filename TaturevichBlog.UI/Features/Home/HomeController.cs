@@ -1,7 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 
-namespace TaturevichBlog.UI.Controllers
+namespace TaturevichBlog.UI.Features.Home
 {
     public class HomeController : Controller
     {
