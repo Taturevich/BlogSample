@@ -1,0 +1,1 @@
+npm install && dotnet restore && dotnet build -c release
