@@ -1,1 +1,1 @@
-dotnet restore && dotnet build && dotnet test
+npm install && dotnet restore && dotnet build && dotnet test
